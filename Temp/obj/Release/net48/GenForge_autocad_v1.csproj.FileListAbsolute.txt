@@ -1,0 +1,5 @@
+D:\ai_cad_agent_001\publish\Temp\obj\Release\net48\GenForge_autocad_v1.csproj.AssemblyReference.cache
+D:\ai_cad_agent_001\publish\Temp\obj\Release\net48\GenForge_autocad_v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ai_cad_agent_001\publish\Temp\obj\Release\net48\GenForge_autocad_v1.AssemblyInfoInputs.cache
+D:\ai_cad_agent_001\publish\Temp\obj\Release\net48\GenForge_autocad_v1.AssemblyInfo.cs
+D:\ai_cad_agent_001\publish\Temp\obj\Release\net48\GenForge_autocad_v1.csproj.CoreCompileInputs.cache

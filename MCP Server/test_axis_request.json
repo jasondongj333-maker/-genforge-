@@ -1,0 +1,12 @@
+{
+  "jsonrpc": "2.0",
+  "id": 2,
+  "method": "tools/call",
+  "params": {
+    "name": "create_axis_grid",
+    "arguments": {
+      "horizontal_spacings": [5000, 5000, 5000, 5000, 5000],
+      "vertical_spacings": [3000, 3000, 3000, 3000, 3000, 3000]
+    }
+  }
+}

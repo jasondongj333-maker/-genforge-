@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cad-agent": {
+      "command": "python",
+      "args": ["D:/TRAE_PROJECT/CAD_AGENT/MCP Server/mcp_server.py"],
+      "cwd": "D:/TRAE_PROJECT/CAD_AGENT/MCP Server"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\TRAE_PROJECT\CAD_AGENT\obj\Debug\net48\CadProject.csproj.AssemblyReference.cache
+D:\TRAE_PROJECT\CAD_AGENT\obj\Debug\net48\CadProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRAE_PROJECT\CAD_AGENT\obj\Debug\net48\CadProject.AssemblyInfoInputs.cache
+D:\TRAE_PROJECT\CAD_AGENT\obj\Debug\net48\CadProject.AssemblyInfo.cs
+D:\TRAE_PROJECT\CAD_AGENT\obj\Debug\net48\CadProject.csproj.CoreCompileInputs.cache

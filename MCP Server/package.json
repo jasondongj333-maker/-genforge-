@@ -1,0 +1,15 @@
+{
+  "name": "cad-agent-mcp-server",
+  "version": "1.0.0",
+  "description": "CAD Agent MCP Server - 连接 AutoCAD 进行语义建模",
+  "main": "mcp_server.py",
+  "scripts": {
+    "start": "python mcp_server.py",
+    "test": "python test_mcp.py"
+  },
+  "dependencies": {
+    "python": ">=3.8",
+    "win32com": "*",
+    "pywin32": "*"
+  }
+}
